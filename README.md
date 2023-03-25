@@ -4,7 +4,7 @@
 **AngelNaEs/AngelNaES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Actualmente me encuentro aprendiendo programación para entrar en el mundo laboral, estudie Ingeniería en Sistemas Computacionales. Derrollador JavaScript con el Stack MERN. Tengo conocimiento en Ingenieria de Software y despliegue de servidores, he usado Amazon Web Services y Digital Ocean. 
+Actualmente me encuentro aprendiendo programación para entrar en el mundo laboral, estudie Ingeniería en Sistemas Computacionales. Desarrollador JavaScript con el Stack MERN. Tengo conocimiento en Ingenieria de Software y despliegue de servidores, he usado Amazon Web Services y Digital Ocean. 
 
 [![Web](https://img.shields.io/badge/Mi_Sitio_Web-codenaes.com-14a1f0?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://codenaes.com)
 [![YouTube](https://img.shields.io/badge/YouTube-CodeNaEs-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com)
